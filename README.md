@@ -1,5 +1,11 @@
 # 0x Arbitrage Bot
 
+
+We're building advanced DEX bots for the community to support our mission at Cortex in advancing stem cell therapies and seizure prediction technologies for epilepsy treatment. By participating in our presale, you'll gain early access to these bots and receive full setup support. Join us in revolutionizing epilepsy treatment and be part of our journey!
+
+For more details, join our Discord at [Core Dex Community](https://discord.gg/AWDgU4WCwV)
+
+
 1. Used <strong>0x Api</strong> to fetch best swap rate available as it is a DEX aggregator.
 2. Used <strong>DODO Flashloan</strong> to get the capital required for trade.
 3. Used <strong>Solidity</strong> for writing smart contract and <strong>Hardhat</strong> to compile and deploy the contract on <strong>Polygon</strong>.
